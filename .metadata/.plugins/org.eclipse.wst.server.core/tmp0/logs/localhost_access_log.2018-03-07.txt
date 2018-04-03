@@ -1,0 +1,9 @@
+127.0.0.1 - - [07/Mar/2018:18:15:37 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:18:15:38 +0530] "GET /RESTful/WEB-INF/web.xml HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:18:18:36 +0530] "PUT /RESTful/rest/demo/update/888/5000.0 HTTP/1.1" 500 8704
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:18:19:39 +0530] "GET /RESTful/WEB-INF/classes/com/org/Customer.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:18:19:46 +0530] "PUT /RESTful/rest/demo/update/888/5000.0 HTTP/1.1" 500 8704
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:18:25:11 +0530] "GET /RESTful/WEB-INF/classes/com/org/Employee.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:18:25:21 +0530] "PUT /RESTful/WEB-INF/classes/com/org/Employee.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:18:25:37 +0530] "PUT /RESTful/WEB-INF/classes/com/org/Employee.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [07/Mar/2018:18:34:19 +0530] "POST /RESTful/WEB-INF/classes/com/org/Employee.java HTTP/1.1" 404 949
